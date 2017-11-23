@@ -1,2 +1,2 @@
 # BilliardPositioning
-Determinates billiard balls position by video
+Determinates billiard balls position on the video
