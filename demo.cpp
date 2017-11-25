@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	if (argc != 2) {
 		capture.open("Shary_2.mp4");
 	} else {
-		capture.open(argv[0]);
+		capture.open(argv[1]);
 	}
 	
 	if (!capture.isOpened()) {
